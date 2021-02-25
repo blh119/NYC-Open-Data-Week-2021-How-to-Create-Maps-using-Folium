@@ -13,7 +13,6 @@ geopandas==0.6.1<br/>
 folium==0.12.0<br/>
 pandas==1.1.5<br/>
 Shapely==1.6.4.post2<br/>
-
 python==3.6.12
 
 It is important to make sure that the right version of Python is installed as later version of Python may not work with these packages. Also, setting up a virtual enviroment for this project could help to make sure the right version of each package are installed. 
