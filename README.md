@@ -1,6 +1,6 @@
 # NYC-Open-Data-Week-2021-How-to-Create-Maps-using-Folium
 
-This is the repository for NYC Open Data Week event How to Create Maps using Folium. This event is taking place on Friday, March 5, 2021 at 7pm. This repository includes, the datasets, shapefiles, and the IPython workbook needed for this event. 
+This is the repository for NYC Open Data Week event How to Create Maps using Folium. This event is taking place on Friday, March 12, 2021 at 7pm. This repository includes, the datasets, shapefiles, and the IPython workbook needed for this event. 
 
 This project gives a short guide on how to create maps using Python GIS packages including GeoPandas, Shapely, and Folium. It goes over how to create Marker maps, Heatmap maps, and Cloropleth maps. 
 
