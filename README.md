@@ -8,12 +8,11 @@ The dataset used for this project can be found on NYC Open Data at: https://data
 
 This project is best done as a Jupyter Notebook file. You could work through this project as the event is going on with the How to Create Maps in Python using Folium Worksheet.ipynb file. This file depends on a few Python packages that are not available with the standard Jupyter Notebook packages. These requirments can be seen in the requirments.txt. These requirments include:
 
-numpy==1.19.5<br/>
-geopandas==0.6.1<br/>
-folium==0.12.0<br/>
-pandas==1.1.5<br/>
-Shapely==1.6.4.post2<br/>
-python==3.6.12
+numpy<br/>
+geopandas<br/>
+folium<br/>
+pandas<br/>
+Shapely<br/>
 
 It is important to make sure that the right version of Python is installed as later versions of Python may not work with these packages. Also, setting up a virtual enviroment for this project could help to make sure the right versions of each package are installed. 
 
